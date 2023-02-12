@@ -1,4 +1,8 @@
 testtext
 testtext
+<<<<<<< HEAD
 2回目のロールバックテスト
 この追記は削除したい
+=======
+adaa
+>>>>>>> parent of 5f66d5f (Merge remote-tracking branch 'origin/main')
